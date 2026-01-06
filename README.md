@@ -15,4 +15,4 @@ python yeraz98_ultra.py
 ```
 
 **Müəllif:** [yeraz98](https://github.com/yeraz98)  
-**E-poçt:** serxanxudabendeyev13@gmail.com
+
